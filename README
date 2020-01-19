@@ -1,0 +1,6 @@
+Based on https://github.com/niklas-heer/pocketcasts-stats Copyright (c) 2018 Niklas Heer
+
+Python script to save stats from PocketCasts to a CSV file.
+Run regularly (eg, cron at 11pm) to save seconds listened for each day to CSV.
+
+Insert pocketcasts username and password into config.py file and run the script.
